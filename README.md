@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Netflix Clone
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
@@ -46,9 +45,9 @@
 
 **screenshot of website**
   
-   <img src="assets/img/screenshots.png"> 
+   <img src="assets/img/screenshot.png"> 
 
 ---
-=======
 
->>>>>>> 4a8ca8fb9e201c0f16cc5c6929097631fd8e6f73
+## ⭐ If you like this project, consider giving it a star on GitHub!
+
