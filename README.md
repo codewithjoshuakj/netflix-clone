@@ -33,7 +33,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/codewithjoshuakj/netflix-clone.git
    cd netflix-clone
 2. Open the folder in VS Code
 
